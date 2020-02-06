@@ -1,0 +1,8 @@
+{
+  "graph": "hello@master",
+  "projects": {
+    "web": {
+      "operations": "./src/**/*.ts"
+    }
+  }
+}
